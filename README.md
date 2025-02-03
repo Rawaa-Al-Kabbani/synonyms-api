@@ -2,6 +2,8 @@
 
 Synonyms API is a GraphQL API for creating and searching for synonyms.
 
+Live URL: https://synonyms-api-b0f0ggdcbxb0aub0.swedencentral-01.azurewebsites.net/graphql
+
 ## Requirements
 
 - Node.js and Yarn for running the app locally.
