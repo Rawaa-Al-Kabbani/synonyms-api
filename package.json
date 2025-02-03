@@ -1,6 +1,6 @@
 {
   "name": "synonyms-search",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "GraphQL API for the synonyms service",
   "author": "Rawaa Al-Kabbani",
   "private": true,
